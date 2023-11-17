@@ -54,7 +54,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- git clone https://github.com/Surafels/Morse-Decode.git
+- git clone https://github.com/yayaismaail/decode-morse-message.git
 - cd decode-morse-code
 - code .
 
@@ -86,7 +86,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Surafels/Morse-Decode/issues).
+Feel free to check the [issues page](https://github.com/yayaismaail/decode-morse-message/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,6 +106,6 @@ We would like to thank our colleagues at Microverse for their support during the
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Surafels/Morse-Decode/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/yayaismail/decode-morse-message/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
